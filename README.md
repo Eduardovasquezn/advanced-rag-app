@@ -4,7 +4,7 @@ Welcome to the repository for building an advanced Retrieval-Augmented Generatio
 
 ![RAG Application](images/rag.png)
 
-🎥 **Watch the full tutorial on YouTube:** [Advanced RAG Application with LangGraph Tutorial](https://www.youtube.com/yourvideo)
+🎥 **Watch the full tutorial on YouTube:** [Advanced RAG Application with LangGraph Tutorial](https://youtu.be/GXRveOki4kE)
 
 ### Key Features:
 - **Adaptive and Self-Reflective RAG**
