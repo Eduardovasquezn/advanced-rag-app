@@ -2,7 +2,7 @@
 
 Welcome to the repository for building an advanced Retrieval-Augmented Generation (RAG) application using LangGraph. This project demonstrates how to create an adaptive and self-reflective RAG system while preventing hallucinations. It also showcases the integration of an agent that retrieves information via a search browser using Tavily and leverages GROQ to speedup inference.
 
-![RAG Application](images/rag)
+![RAG Application](images/rag.png)
 
 🎥 **Watch the full tutorial on YouTube:** [Advanced RAG Application with LangGraph Tutorial](https://www.youtube.com/yourvideo)
 
