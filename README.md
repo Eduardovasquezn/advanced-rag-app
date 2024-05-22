@@ -14,4 +14,7 @@ Welcome to the repository for building an advanced Retrieval-Augmented Generatio
 - **Chroma as a vector store database**
 - **LangGraph**
  
-Don't forget to check out the video, like, comment, and subscribe for more advanced AI tutorials!
+Don't forget to check out the video, like, comment, and subscribe for more advanced tutorials!
+
+If you found the content helpful, consider subscribing to my 
+[YouTube channel](https://www.youtube.com/channel/UCYZ_si4TG801SAuLrNl-v-g?sub_confirmation=1) to support me.
